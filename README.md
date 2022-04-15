@@ -14,6 +14,8 @@ Might add different and more exotic methodologies later.
 
 **SUPER IMPORTANT DISCLAIMERS:**
 
+aesthetics matter more than rarity
+
 data provided as-is. 
 
 not financial advice.
