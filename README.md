@@ -13,6 +13,7 @@ https://github.com/Convex-Labs/honestnft-shenanigans/blob/master/metadata/rarity
 Might add different and more exotic methodologies later.
 
 **SUPER IMPORTANT DISCLAIMERS:**
+
 data provided as-is. 
 
 not financial advice.
