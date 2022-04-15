@@ -21,4 +21,6 @@ not financial advice.
 [mint honestnft vigilantes](https://www.vigilante.honestnft.xyz/). 
 once we sell out we can move on to phase 2. 
 
+If you or someone you know has a gambling problem, help is available and it works Call 1-800-GAMBLER or 1-800-848-1880.
+
 do your own research.
