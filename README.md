@@ -8,7 +8,7 @@ https://github.com/Convex-Labs/honestnft-shenanigans/blob/master/metadata/rarity
 
 **Milady_Modified_raritytools.csv:** omitted 'drip score' and 'number' and also num_traits. 
 
-**Milady_Modified_no_trait_count.csv:** omitted 'drip score' and 'number' and also num_traits. 
+**Milady_Modified_no_trait_count_raritytools.csv:** omitted 'drip score' and 'number' and also num_traits. 
 
 Might add different and more exotic methodologies later.
 
